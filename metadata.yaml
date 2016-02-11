@@ -1,0 +1,28 @@
+_repo: Jonas-Durmanin-testamentti_48017
+contributor:
+  translator:
+    agent_name: Alpi, Eero
+    birthdate: 1885
+    deathdate: 1933
+    gutenberg_agent_id: '31668'
+    url: http://www.gutenberg.org/2009/agents/31668
+creator:
+  author:
+    agent_name: Sigurd
+    alias: Hedenstierna, Alfred
+    birthdate: 1852
+    deathdate: 1906
+    gutenberg_agent_id: '42021'
+    url: http://www.gutenberg.org/2009/agents/42021
+    wikipedia: http://sv.wikipedia.org/wiki/Alfred_Hedenstierna
+description: ''
+gutenberg_issued: '2015-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48017'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Jonas Durmanin testamentti
+url: http://www.gutenberg.org/ebooks/48017
